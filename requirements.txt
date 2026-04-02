@@ -1,0 +1,5 @@
+# Dependências prováveis para scripts de hash.
+# Ajuste conforme os imports reais do projeto.
+
+colorama
+passlib
