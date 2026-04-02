@@ -5,10 +5,13 @@ Projeto voltado para estudos de **hashes**, **quebra de hash** e uso de ferramen
 ## Estrutura
 
 ```text
-Hash/
-├─ exemplo_hash.py
-├─ HashBreaker.py
-└─ JohnTheKicker.py
+hash/
+├─ src/
+│  ├─ exemplo_hash.py
+│  ├─ hash_breaker.py
+│  └─ john_the_kicker.py
+├─ README.md
+└─ requirements.txt
 ```
 
 ## Objetivo
