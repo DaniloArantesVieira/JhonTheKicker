@@ -55,9 +55,3 @@ python JohnTheKicker.py
 
 - Este material deve ser utilizado apenas para **fins educacionais e laboratoriais**.
 - Caso o projeto use wordlists, hashes de teste ou arquivos auxiliares, mantenha-os fora de repositórios públicos quando necessário.
-
-## Melhorias futuras
-
-- Padronizar nomes dos arquivos para `snake_case`.
-- Adicionar exemplos de entrada e saída.
-- Incluir testes automatizados.
